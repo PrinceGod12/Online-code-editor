@@ -1,12 +1,10 @@
 # Online Code Editor Project
 
-This project is an online code editor that allows users to write and run Python and JavaScript code within a web browser. It utilizes technologies such as Python, JavaScript, HTML, and CSS to provide a user-friendly coding environment.
 
 ## Table of Contents
 
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -27,14 +25,6 @@ This project is an online code editor that allows users to write and run Python 
 3. Click the "Run" button to execute the code.
 4. The output or any errors will be displayed in the output area.
 
-## Technologies Used
-
-- Python
-- JavaScript
-- HTML
-- CSS
-- Flask (Python web framework)
-- CodeMirror (Code editor library)
 
 ## Getting Started
 
